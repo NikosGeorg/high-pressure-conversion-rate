@@ -28,20 +28,18 @@ This metric provides a high-level view of how effective teams are at converting 
 
 ---
 
-## 🧰 Tools & Libraries
+## 🛠 Tools
 
 - Python
-- pandas
-- ElementTree (for XML parsing)
-- tqdm
 - Jupyter Notebook
 
 ---
 
-## 📁 Data Source
+## 📁 Data
 
-- OPTA F24 XML feeds
-- League analyzed: **La Liga 2023 Season**
+- Source: **OPTA F24 XML feeds**
+- Season: **2023-2024**
+- League: **La Liga**
 
 ---
 
@@ -55,7 +53,7 @@ This metric provides a high-level view of how effective teams are at converting 
 
 ---
 
-## 📊 Sample Insights
+## 📊 Insights
 
 - Teams with high HPCR demonstrate efficient transitions from pressing to scoring.
 - Some teams had a high volume of pressure actions but low HPCR, indicating inefficiency in capitalizing on them.
@@ -70,4 +68,4 @@ This project illustrates how custom metrics, tailored to tactical concepts, can 
 
 👤 **Author**: Nikolaos Georgiadis  
 📅 **Date**: March 2025  
-🔗 For feedback or collaboration, feel free to [connect on LinkedIn](https://www.linkedin.com/in/nikosgeorg/)
+🔗 For feedback or collaboration, feel free to connect on [LinkedIn](https://www.linkedin.com/in/nikosgeorg/)
